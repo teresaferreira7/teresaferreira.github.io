@@ -27,5 +27,8 @@ Google CloudPlataform.
 
 #### Soft Skills: 
 1. Team Work
+2. Problem Solving
+3. Resiliance
+4. Curiosity 
 
 ### Projects
