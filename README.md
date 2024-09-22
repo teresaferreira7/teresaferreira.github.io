@@ -1,5 +1,11 @@
 # Data Scientist 
 
+##### Personal Information
+atpferreira7@gmail.com
++351 919619935
+
+## About Me
+Insert text about me
 
 ### Education 
 - Master's Degree In Engineering and Information Systems
