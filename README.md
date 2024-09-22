@@ -12,6 +12,7 @@ I am committed to leveraging data to solve complex problems andcontribute to org
 ## Education 
 Master's Degree In Engineering and Information Systems <br>
 University of Minho| 2016 - 2022
+<br>
 
 
 ## Work Experience 
