@@ -22,11 +22,11 @@ University of Minho| 2016 - 2022
  <br>
 
 **Researcher @ ioTech** (July 2020 - December 2020)
-<div style="text-align: justify;">
-- Development of a clinical decision support platform,capable of predicting the evolution of the COVID-19disease of a given patient.
+
+- <div style="text-align: justify;"> Development of a clinical decision support platform,capable of predicting the evolution of the COVID-19disease of a given patient. </div>
   
 - **Skills Developed**: Python, Machine Learning, Model Validation andEvaluation, Feature Engineering
-</div> <br>
+ <br>
 
 #### Techincal Skills: 
 1. Pyhton
