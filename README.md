@@ -1,6 +1,6 @@
 # Data Scientist 
 
-##### Personal Information
+**Personal Information** <br>
 atpferreira7@gmail.com <br>
 +351 919619935
 
