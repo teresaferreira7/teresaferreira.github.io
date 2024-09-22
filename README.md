@@ -21,7 +21,7 @@ University of Minho| 2016 - 2022
 **Skills**: Python (pandas, matplotlib, numpy), R, SQL, Feature Engineering, Cluster Analysis, Predictive Analysis, Power BI, Data Visualization, Dashboard Creation, Google Cloud Platform.
  <br>
 
-**Researcher @ ioTech** (July 2020 - December 2020)
+**Researcher @ ioTech** [July 2020 - December 2020]
 
 - <div style="text-align: justify;"> Development of a clinical decision support platform,capable of predicting the evolution of the COVID-19disease of a given patient. </div>
   
