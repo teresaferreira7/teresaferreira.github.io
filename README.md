@@ -8,7 +8,7 @@ atpferreira7@gmail.com
 Insert text about me
 
 ## Education 
-- Master's Degree In Engineering and Information Systems \n
+- Master's Degree In Engineering and Information Systems <br>
 University of Minho| 2016 - 2022
 
 
