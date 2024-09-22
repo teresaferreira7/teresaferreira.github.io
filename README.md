@@ -15,16 +15,18 @@ University of Minho| 2016 - 2022
 
 ## Work Experience 
 
-**Data Scientist @ Inovretail | Sonae** (September 2022 - Present_)
+**Data Scientist @ Inovretail | Sonae** [September 2022 - Present_]
 <div style="text-align: justify;">
 - Development of multiple data science projects with a focus on analyzing user behavior related to magazine subscriptions. These projects included content analysis, the application of clustering algorithms, and predictive churn analysis. <br><br>
 **Skills**: Python (pandas, matplotlib, numpy), R, SQL, Feature Engineering, Cluster Analysis, Predictive Analysis, Power BI, Data Visualization, Dashboard Creation, Google Cloud Platform.
 </div> <br>
 
 **Researcher @ ioTech** (July 2020 - December 2020)
+<div style="text-align: justify;">
 - Development of a clinical decision support platform,capable of predicting the evolution of the COVID-19disease of a given patient.
   
 - **Skills Developed**: Python, Machine Learning, Model Validation andEvaluation, Feature Engineering
+</div> <br>
 
 #### Techincal Skills: 
 1. Pyhton
