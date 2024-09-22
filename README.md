@@ -5,7 +5,9 @@ atpferreira7@gmail.com <br>
 +351 919619935
 
 ## About Me
-Insert text about me
+ <div style="text-align: justify;">Currently working as a Data Scientist at Inovretail | SONAE.
+In this stage of my career, my goal is to advance in the field of dataand acquire as much knowledge as possible, in order to find my placein this area. I am committed to leveraging data to solve complexproblems and contribute to organizational success.
+I am committed to leveraging data to solve complex problems andcontribute to organizational success.</div>
 
 ## Education 
 Master's Degree In Engineering and Information Systems <br>
