@@ -15,7 +15,7 @@ University of Minho| 2016 - 2022
 
 ## Work Experience 
 **Data Scientist @ Inovretail | Sonae** (September 2022 - Present_)
-- Development of multiple data science projects with afocus on analyzing user behavior related to magazinesubscriptions. These projects included content analysis,the application of clustering algorithms, and predictivechurn -analysis
+- Development of multiple data science projects with afocus on analyzing user behavior related to magazinesubscriptions. These projects included content analysis,the application of clustering algorithms, and predictivechurn -analysis <br>
 **Skills**: Python (pandas, matplotlib, numpy), R, SQL, FeatureEngineering, Cluster Analysis, Predictive Analysis, PowerBI, Data Visualization, Dashboard Creation,
 Google CloudPlataform.
 
@@ -23,7 +23,7 @@ Google CloudPlataform.
 **Researcher @ ioTech** (July 2020 - December 2020)
 - Development of a clinical decision support platform,capable of predicting the evolution of the COVID-19disease of a given patient.
   
-- **Skills**: Python, Machine Learning, Model Validation andEvaluation, Feature Engineering
+- **Skills Developed**: Python, Machine Learning, Model Validation andEvaluation, Feature Engineering
 
 #### Techincal Skills: 
 1. Pyhton
