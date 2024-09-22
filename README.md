@@ -14,7 +14,6 @@ Master's Degree In Engineering and Information Systems <br>
 University of Minho| 2016 - 2022
 
 
-
 ## Work Experience 
 
 **Data Scientist @ Inovretail | Sonae** September 2022 - Present
