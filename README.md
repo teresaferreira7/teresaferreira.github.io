@@ -40,3 +40,4 @@ University of Minho| 2016 - 2022
 4. Curiosity 
 
 ### Projects
+
