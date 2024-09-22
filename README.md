@@ -19,8 +19,7 @@ University of Minho| 2016 - 2022
 <div style="text-align: justify;">
 - Development of multiple data science projects with a focus on analyzing user behavior related to magazine subscriptions. These projects included content analysis, the application of clustering algorithms, and predictive churn analysis. <br><br>
 **Skills**: Python (pandas, matplotlib, numpy), R, SQL, Feature Engineering, Cluster Analysis, Predictive Analysis, Power BI, Data Visualization, Dashboard Creation, Google Cloud Platform.
-</div>
-
+</div> <br>
 
 **Researcher @ ioTech** (July 2020 - December 2020)
 - Development of a clinical decision support platform,capable of predicting the evolution of the COVID-19disease of a given patient.
