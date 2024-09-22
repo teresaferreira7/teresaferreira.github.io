@@ -1,8 +1,8 @@
 # Data Scientist 
 
 ### Education 
-MASTER'S DEGREE IN ENGINEERING AND INFORMATIONSYSTEMS
-UNIVERSIDADE OF MINHO| 2016 - 2022
+**Master's Degree In Engineering and Information Systems**
+University of Minho| 2016 - 2022
 
 
 
